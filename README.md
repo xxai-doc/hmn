@@ -7,3 +7,4 @@ Lub hauv ntej-kawg code ntawm lub vev xaib yog qhib qhov chaw, txais tos los pab
 * [pem hauv ntej-kawg code](https://github.com/xxai-art/web)
 * [Cov lus ntim rau lub xaib tag nrho](https://github.com/xxai-art/web/tree/main/i18n)
 * [Cov pob lus rau kev nkag mus rau modules](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Website Multilingual Documentation](https://github.com/xxai-doc)
