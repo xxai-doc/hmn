@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , ntxiv ib co nta ntawm lub hauv paus ntawm coffeescript syntax, saib [coffee_plus](./coffee_plus.md) .
 
-* tshaj tawm variable
+## tshaj tawm variable
 
 ```
 + var1, var2
 ```
 
-* daim ntawv tshaj tawm
+## daim ntawv tshaj tawm
 
 `:$` yog siv nrog [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* ceev import
+## ceev import
 
 ```
 > zx/globals:
