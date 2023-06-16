@@ -17,14 +17,14 @@ Cov lus programming pem hauv ntej yog [@w5/coffee_plus](http://npmjs.com/@w5/cof
 
 Ua raws li 3 txoj haujlwm hauv qab no
 
-### [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
+* [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
 
-Cov qauv markdown, nrog rau cov lus kawg `.mdt` , tuaj yeem xa mus rau cov ntaub ntawv sab nraud nrog cov syntax zoo ib yam li `<+ ./coffee_plus/import.js>` .
+  Lub ntsiab lus yog `.mdt` , koj tuaj yeem siv cov syntax zoo ib yam li `<+ ./coffee_plus/import.js>` xa mus rau cov ntaub ntawv sab nraud, thiab tsim cov cim cim nrog cov lus `.md` .
 
-[@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
+* [@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
 
-Markdown txhais lus yuav tsis txhais cov lej thiab txuas, thiab yuav cache cov kab lus txhais. Yog tias qhov kev txhais lus raug hloov kho tab sis cov ntawv qub tsis raug hloov kho, nws rov ua dua yuav tsis sau qhov kev hloov pauv ntawm kev txhais lus.
+  Markdown txhais lus yuav tsis txhais cov lej thiab txuas, thiab yuav cache cov kab lus txhais. Yog tias qhov kev txhais lus raug hloov kho tab sis cov ntawv qub tsis raug hloov kho, nws rov ua dua yuav tsis overwrite qhov kev hloov kho ntawm kev txhais lus.
 
-[@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
+* [@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
 
-Cov ntaub ntawv lus rau kev txhais `yaml` tsim cov vev xaib.
+  Cov ntaub ntawv lus rau kev txhais `yaml` tsim cov vev xaib.
